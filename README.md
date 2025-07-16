@@ -43,4 +43,4 @@ Top 10 customers account for over 40% of total sales, suggesting a high dependen
 
 Sample ScreenShots- 
 https://github.com/sonalimore6/Sales-Dashboard/blob/main/Sales%20Dashboard.png
-
+https://github.com/sonalimore6/Sales-Dashboard/blob/main/Sales%20Forecast.png
