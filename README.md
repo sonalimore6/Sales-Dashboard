@@ -41,5 +41,6 @@ Q4 Sales Spike suggests strong seasonal demand.
 Electronics Category has the highest profit margin.
 Top 10 customers account for over 40% of total sales, suggesting a high dependency on few clients.
 
-Sample ScreenShots-
+Sample ScreenShots- 
+https://github.com/sonalimore6/Sales-Dashboard/blob/main/Sales%20Dashboard.png
 
