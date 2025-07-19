@@ -10,12 +10,14 @@ Customer Segmentation Insights
 This dashboard helps business stakeholders make data-driven decisions to optimize revenue, track growth, and identify underperforming areas.
 
 Tech stack used -
- Tool/Tech            | Purpose                                    |
+| Tool/Tech            | Purpose                                    |
+| -------------------- | ------------------------------------------ |
+| Power BI       | Dashboard development and visualization    |
+| DAX          | Data modeling and calculated metrics       |
+| Query         | Data transformation and preprocessing      |
+| .pbit File      | Power BI Template (for reuse/shareability) |
+| Power BI Desktop | Used to author and publish the report      |
 
- Power BI         | Dashboard development and visualization    |
- DAX             | Data modeling and calculated metrics       |
- .pbit File       | Power BI Template (for reuse/shareability) |
- Power BI Desktop | Used to author and publish the report      |
 
 Dashboard Layout & Visuals-
 From the layout definitions, the following visuals are included:
@@ -42,5 +44,5 @@ Electronics Category has the highest profit margin.
 Top 10 customers account for over 40% of total sales, suggesting a high dependency on few clients.
 
 Sample ScreenShots- 
-https://github.com/sonalimore6/Sales-Dashboard/blob/main/Sales%20Dashboard.png
-https://github.com/sonalimore6/Sales-Dashboard/blob/main/Sales%20Forecast.png
+Show what the dashboard looks like- ![Alt text](https://github.com/sonalimore6/Sales-Dashboard/blob/main/Sales%20Dashboard.png)
+Example- ![Alt text](https://github.com/sonalimore6/Sales-Dashboard/blob/main/Sales%20Forecast.png)
